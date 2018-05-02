@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Špatný vstup. Soukromý klíč obou položek je shodný. Musíte zadat dva různé klíče.",
 
 		// header and menu html
-		"tagline": "Open Source generátor Bitcoin peněženky napsaný v JavaScript",
-		"generatelabelbitcoinaddress": "Generuji Bitcoin adresu",
+		"tagline": "Open Source generátor Litecoin Silver Testnet peněženky napsaný v JavaScript",
+		"generatelabelbitcoinaddress": "Generuji Litecoin Silver Testnet adresu",
 		"generatelabelmovemouse": "POHYBUJTE myší pro získání dostatku náhody...",
 		"generatelabelkeypress": "NEBO napište několik náhodných znaků do tohoto pole",
 		"singlewallet": "Jedna peněženka",

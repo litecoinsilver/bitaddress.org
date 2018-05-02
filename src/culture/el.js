@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Μη έγκυρη εισαγωγή. Τα Προσωπικά Κλειδιά των δύο εγγραφών είναι όμοια. Πρέπει να εισάγετε δύο διαφορετικά Κλειδιά.",
 
 		// header and menu html
-		"tagline": "Δημιουργός Διευθύνσεων Bitcoin, ανοικτού κώδικα Javascript",
-		"generatelabelbitcoinaddress": "Δημιουργία Διεύθυνσης Bitcoin...",
+		"tagline": "Δημιουργός Διευθύνσεων Litecoin Silver Testnet, ανοικτού κώδικα Javascript",
+		"generatelabelbitcoinaddress": "Δημιουργία Διεύθυνσης Litecoin Silver Testnet...",
 		"generatelabelmovemouse": "ΚΟΥΝΗΣΤΕ το ποντίκι τριγύρω για να προσθέσετε επιπλέον τυχαιότητα...",
 		"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
 		"singlewallet": "Απλό Πορτοφόλι",

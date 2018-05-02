@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Unzulässige Eingaben. Die eingegebenen privaten Schlüssel stimmen überein. Bitte gib zwei unterschiedliche Schlüssel ein.",
 
 		// header and menu html
-		"tagline": "Offener, client-seitiger Bitcoin-Wallet-Generator in JavaScript",
-		"generatelabelbitcoinaddress": "Erstelle Bitcoin-Wallet...",
+		"tagline": "Offener, client-seitiger Litecoin Silver Testnet-Wallet-Generator in JavaScript",
+		"generatelabelbitcoinaddress": "Erstelle Litecoin Silver Testnet-Wallet...",
 		"generatelabelmovemouse": "Bewege deine Maus umher, um die Zuf&auml;lligkeit zu erh&ouml;hen...",
 		"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
 		"singlewallet": "Einzelnes Wallet",

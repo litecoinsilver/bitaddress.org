@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Entrée non valide. La clé Privée des deux entrées est identique. Vous devez entrer deux clés différentes.",
 
 		// header and menu html
-		"tagline": "Générateur De Porte-Monnaie Bitcoin Javascript Hors-Ligne",
-		"generatelabelbitcoinaddress": "Création de l'adresse Bitcoin...",
+		"tagline": "Générateur De Porte-Monnaie Litecoin Silver Testnet Javascript Hors-Ligne",
+		"generatelabelbitcoinaddress": "Création de l'adresse Litecoin Silver Testnet...",
 		"generatelabelmovemouse": "BOUGEZ votre souris pour ajouter de l'entropie...",
 		"generatelabelkeypress": "OU veuillez taper des caractères aléatoires dans le rectangle blanc suivant",
 		"singlewallet": "Porte-Monnaie Simple",

@@ -135,7 +135,7 @@ Bitcoin.ECKey = (function () {
 		}
 	};
 
-	ECKey.privateKeyPrefix = 0x80; // mainnet 0x80    testnet 0xEF
+	ECKey.privateKeyPrefix = 0xEF; // mainnet 0x80    testnet 0xEF
 
 	/**
 	* Whether public keys should be returned compressed by default.

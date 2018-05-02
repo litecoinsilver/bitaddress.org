@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Entrada no válida. La clave privada de ambos coincidan entradas. Debe introducir dos claves diferentes.",
 
 		// header and menu html
-		"tagline": "Generador de carteras Bitcoin de código abierto en lado de cliente con Javascript",
-		"generatelabelbitcoinaddress": "Generando dirección Bitcoin...",
+		"tagline": "Generador de carteras Litecoin Silver Testnet de código abierto en lado de cliente con Javascript",
+		"generatelabelbitcoinaddress": "Generando dirección Litecoin Silver Testnet...",
 		"generatelabelmovemouse": "Mueve un poco el ratón para crear entropía...",
 		"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
 		"singlewallet": "Una sola cartera",

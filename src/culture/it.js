@@ -20,8 +20,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Dati inseriti non validi. Entrambe le chiavi private combaciano. Devi inserire due chiavi differenti.",
 
 		// header and menu html
-		"tagline": "Open Source JavaScript Client-Side Bitcoin Wallet Generator",
-		"generatelabelbitcoinaddress": "Generazione Indirizzo Bitcoin...",
+		"tagline": "Open Source JavaScript Client-Side Litecoin Silver Testnet Wallet Generator",
+		"generatelabelbitcoinaddress": "Generazione Indirizzo Litecoin Silver Testnet...",
 		"generatelabelmovemouse": "MUOVI il tuo mouse per contribuire alla generazione dei numeri casuali...",
 		"generatelabelkeypress": "OR type some random characters into this textbox", //TODO: please translate
 		"singlewallet": "Singolo portafoglio",

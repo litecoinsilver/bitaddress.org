@@ -21,8 +21,8 @@
 		"vanityalertinvalidinputprivatekeysmatch": "Érvénytelen bemenet. A két megadott privát kulcs azonos. Két különböző kulcs bevitelére van szükség.",
 
 		// header and menu html
-		"tagline": "Nyílt forráskódú, ügyfél oldali JavaScript Bitcoin tárca készítő program",
-		"generatelabelbitcoinaddress": "A bitcoin cím előállítása...",
+		"tagline": "Nyílt forráskódú, ügyfél oldali JavaScript Litecoin Silver Testnet tárca készítő program",
+		"generatelabelbitcoinaddress": "A Litecoin Silver Testnet cím előállítása...",
 		"generatelabelmovemouse": "MOZGASSA az egeret, ha fokozni szeretné a véletlenszerűséget...",
 		"generatelabelkeypress": "VAGY gépeljen be néhány véletlenszerű karaktert ebbe a szövegdobozba",
 		"singlewallet": "Egyszerű pénztárca",
